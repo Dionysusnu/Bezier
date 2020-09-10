@@ -16,7 +16,7 @@
 		"rootDir": "src",
 		"outDir": "out",
 		// optional
-		"declaration": false,
+		"declaration": true,
 		"incremental": false,
 		"baseUrl": "src",
 		// optional, non-configurable
