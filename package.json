@@ -1,13 +1,14 @@
 {
 	"name": "@rbxts/bezier",
-	"version": "0.1.0",
-	"description": "Simple package to calculate bezier curves",
+	"version": "0.2.0",
+	"description": "Simple package to calculate points on bezier curves",
 	"scripts": {
 		"prepublishOnly": "npm run build",
 		"build": "rbxtsc-dev"
 	},
 	"keywords": [
-		"Roblox"
+		"Roblox",
+		"Bezier"
 	],
 	"author": "Dionysusnu",
 	"license": "MIT",
